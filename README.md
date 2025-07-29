@@ -135,19 +135,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 - Additional risk metrics
 - Real-time execution capabilities
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Trading Disclaimer
-
 This software is for educational purposes only. Do not risk money you cannot afford to lose. The developers assume no responsibility for your trading results. Always conduct your own research and consider consulting with a financial advisor before making investment decisions.
-
-## Contact
-
-- GitHub Issues: [Report bugs or request features](https://github.com/yourusername/lvmh-kering-pairs-trading/issues)
-- Email: your.email@example.com
-
----
 
 **Note**: This strategy is designed for educational and research purposes. Live trading requires additional considerations including execution slippage, transaction costs, and real-time data feeds.
